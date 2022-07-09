@@ -1,2 +1,2 @@
 # Sound-Waves
-Python Script for Blender
+Python Script for Audio in Blender
